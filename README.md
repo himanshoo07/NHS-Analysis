@@ -9,3 +9,5 @@ What patterns are there in the number/age of patients treated?
 What is the effect of deprivation?
 
 A person aged 55 in 2019 will reach the State Pension age in 2031. What types of CCGs face the greatest shortage of dentists in 2031?
+
+Technologies used: python, Pandas, matplolib, numpy.
